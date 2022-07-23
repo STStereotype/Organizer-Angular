@@ -1,0 +1,14 @@
+/* Core */
+html {
+  height: 100%;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+*:before, *:after {
+  box-sizing: inherit;
+}
+/*# sourceMappingURL=screen.css.map */

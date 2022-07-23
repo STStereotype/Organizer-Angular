@@ -1,0 +1,1 @@
+{"version":3,"sources":["screen.sass","Global.sass"],"names":[],"mappings":"AAAA;ACAA;EACC;;;AACD;EACC;EACA;EACA;;AAEA;EACC","file":"screen.css","sourcesContent":["/* Core */\r\n@import \"Colors\"\r\n@import \"Global\"\r\n","html\r\n\theight: 100%\r\n*\r\n\tbox-sizing: border-box\r\n\tpadding: 0\r\n\tmargin: 0\r\n\r\n\t&:before, &:after\r\n\t\tbox-sizing: inherit\r\n"]}
